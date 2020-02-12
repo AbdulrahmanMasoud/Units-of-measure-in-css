@@ -1,9 +1,9 @@
 # Units-of-measure-in-css
-Units of measure in css
+وحدات القياس في css
 
 
 rem
-root em اسمها
+
 
 
 ده بياخد من الحجم الافتراضي بتاع المتصفح يعني مثلا لو الحجم الافتراضي بتاع المتصفح 
